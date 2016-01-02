@@ -21,7 +21,7 @@ public class SplashScreen extends Activity {
                 try { 
                     // Thread will sleep for 5 seconds 
                     sleep(2*1000);
-                      
+                     CommonsUtils.putPrefBooleans(getApplicationContext(),true,"login");
                     // After 5 seconds redirect to another intent 
                     if(CommonsUtils.getPrefBoolean(getApplicationContext(), "login")){
                     	Intent i=new Intent(getApplicationContext(),AppMainPage.class);
