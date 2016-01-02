@@ -1,0 +1,8 @@
+D:\AndroidStudioProjects\ClonedProject\TakeAway1\app\build\intermediates\classes\debug
+D:\AndroidStudioProjects\ClonedProject\TakeAway1\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-70a2d28ebd6f08bf374d7a4c36d97b0cfe15d800.jar
+D:\AndroidStudioProjects\ClonedProject\TakeAway1\app\build\intermediates\pre-dexed\debug\activation-a51027eeb124e7923ae75691cf01f48013e557b6.jar
+D:\AndroidStudioProjects\ClonedProject\TakeAway1\app\build\intermediates\pre-dexed\debug\additionnal-22315221493e54cb832531c74882b136215cfd1a.jar
+D:\AndroidStudioProjects\ClonedProject\TakeAway1\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-bed586fd14b66e1701fa9e88d46d4f375c2e27af.jar
+D:\AndroidStudioProjects\ClonedProject\TakeAway1\app\build\intermediates\pre-dexed\debug\mail-13ae39a325c01f7815fda03cf97201d6262b20be.jar
+D:\AndroidStudioProjects\ClonedProject\TakeAway1\app\build\intermediates\pre-dexed\debug\classes-ec1cf27617cc5dce5450fd1af0044064762f5baf.jar
+D:\AndroidStudioProjects\ClonedProject\TakeAway1\app\build\intermediates\pre-dexed\debug\classes-318e8fa20310e4577244ce97dae1378b10749b33.jar
