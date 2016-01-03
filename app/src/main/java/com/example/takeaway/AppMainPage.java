@@ -148,10 +148,7 @@ public class AppMainPage extends ActionBarActivity {
 		case 2:
 			fragment = new About();
 			break;
-        case 3:
-        break;
 
-		
 		default:
 			break;
 		}
