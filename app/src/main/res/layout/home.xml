@@ -2,7 +2,8 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#3A4B54">
+    android:background="@drawable/img22_mainscreen">
+    <!--android:background="#00FFFF">-->
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -10,17 +11,18 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
         android:layout_margin="20dp"
-        android:orientation="vertical"
-        android:gravity="center" >
+        android:gravity="center"
+        android:orientation="vertical" >
 
         <Button
             android:id="@+id/housing"
             style="?android:attr/buttonStyleSmall"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/buttonshape"
             android:text="Housing"
-            android:layout_margin="10dp" 
-            android:background="@drawable/buttonshape"/>
+            android:textColor="#000000"/>
 
         <Button
             android:id="@+id/electronics"
@@ -28,8 +30,9 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
+            android:background="@drawable/buttonshape"
             android:text="Electronics"
-            android:background="@drawable/buttonshape" />
+            android:textColor="#000000" />
 
         <Button
             android:id="@+id/motorVehicles"
@@ -37,8 +40,9 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
+            android:background="@drawable/buttonshape"
             android:text="Motors"
-            android:background="@drawable/buttonshape" />
+            android:textColor="#000000" />
 
         <Button
             android:id="@+id/others"
@@ -46,8 +50,9 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
+            android:background="@drawable/buttonshape"
             android:text="Others"
-            android:background="@drawable/buttonshape" />
+            android:textColor="#000000" />
 
     </LinearLayout>
 

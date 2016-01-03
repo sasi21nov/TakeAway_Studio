@@ -2,8 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    android:background="#3A4B54"
-     >
+    android:background="#999966"     >
 
     <ScrollView
         android:layout_width="fill_parent"
@@ -23,7 +22,8 @@
                 android:layout_centerHorizontal="true"
                 android:layout_marginLeft="46dp"
                 android:text="TakeAway"
-                android:textAppearance="?android:attr/textAppearanceLarge" />
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#000000" />
 
             <LinearLayout
                 android:id="@+id/linearLayout2"
@@ -43,7 +43,8 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:text="LastName"
-                    android:textAppearance="?android:attr/textAppearanceMedium" />
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="#000000" />
 
                 <EditText
                     android:id="@+id/etLatName"
@@ -75,7 +76,8 @@
                     android:layout_below="@+id/UserName"
                     android:layout_weight="1"
                     android:text="UserName"
-                    android:textAppearance="?android:attr/textAppearanceMedium" />
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="#000000" />
 
                 <EditText
                     android:id="@+id/etUserName"
@@ -105,7 +107,8 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="0.50"
                     android:text="FirstName"
-                    android:textAppearance="?android:attr/textAppearanceMedium" />
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="#000000" />
 
                 <EditText
                     android:id="@+id/etFirstName"
@@ -137,7 +140,8 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="0.50"
                     android:text="Password"
-                    android:textAppearance="?android:attr/textAppearanceMedium" />
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="#000000" />
 
                 <EditText
                     android:id="@+id/etpswd"
@@ -168,7 +172,8 @@
                     android:layout_height="wrap_content"
                     android:layout_marginRight="5dp"
                     android:text="ReType Password"
-                    android:textAppearance="?android:attr/textAppearanceMedium" />
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="#000000" />
 
                 <EditText
                     android:id="@+id/etRetype"
@@ -198,7 +203,8 @@
                     android:layout_height="wrap_content"
                     android:layout_marginRight="5dp"
                     android:text="Phone"
-                    android:textAppearance="?android:attr/textAppearanceMedium" />
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="#000000" />
 
                 <EditText
                     android:id="@+id/etphone"
@@ -228,7 +234,8 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="0.25"
                     android:text="Email"
-                    android:textAppearance="?android:attr/textAppearanceMedium" />
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="#000000" />
 
                 <EditText
                     android:id="@+id/etEmail"
@@ -268,7 +275,8 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:clickable="true"
-                        android:text="Terms and Conditions" />
+                        android:text="Terms and Conditions"
+                        android:textColor="#000000" />
                 </LinearLayout>
 
                 <Button

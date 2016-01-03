@@ -4,5 +4,5 @@ D:\AndroidStudioProjects\ClonedProject\TakeAway1\app\build\intermediates\pre-dex
 D:\AndroidStudioProjects\ClonedProject\TakeAway1\app\build\intermediates\pre-dexed\debug\additionnal-22315221493e54cb832531c74882b136215cfd1a.jar
 D:\AndroidStudioProjects\ClonedProject\TakeAway1\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-bed586fd14b66e1701fa9e88d46d4f375c2e27af.jar
 D:\AndroidStudioProjects\ClonedProject\TakeAway1\app\build\intermediates\pre-dexed\debug\mail-13ae39a325c01f7815fda03cf97201d6262b20be.jar
-D:\AndroidStudioProjects\ClonedProject\TakeAway1\app\build\intermediates\pre-dexed\debug\classes-ec1cf27617cc5dce5450fd1af0044064762f5baf.jar
+D:\AndroidStudioProjects\ClonedProject\TakeAway1\app\build\intermediates\pre-dexed\debug\classes-89565f89cf2cb39d54d3e76111b4e19bec6a5803.jar
 D:\AndroidStudioProjects\ClonedProject\TakeAway1\app\build\intermediates\pre-dexed\debug\classes-318e8fa20310e4577244ce97dae1378b10749b33.jar

@@ -2,7 +2,9 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#999966"
     android:orientation="horizontal" >
+
 
     <ImageView
         android:id="@+id/icon"
@@ -18,18 +20,20 @@
         android:id="@+id/item"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Medium Text"
-        android:textAppearance="?android:attr/textAppearanceMedium"
         android:layout_marginLeft="10dp"
         android:layout_marginTop="5dp"
         android:padding="2dp"
+        android:text="Medium Text"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#000000"
        
-        android:textColor="#33CC33" />
+        android:textStyle="bold" />
     <TextView
         android:id="@+id/itemtype"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
         android:text="TextView"  
-        android:layout_marginLeft="10dp"/>
+        android:textColor="#000000"/>
 	</LinearLayout>
 </LinearLayout>
