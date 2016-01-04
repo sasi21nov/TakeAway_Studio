@@ -2,7 +2,7 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/img22_mainscreen">
+    android:background="@drawable/mainscreen">
     <!--android:background="#00FFFF">-->
 
     <LinearLayout
@@ -20,7 +20,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
-            android:background="@drawable/buttonshape"
+            android:background="@drawable/giphy"
             android:text="Housing"
             android:textColor="#000000"/>
 
